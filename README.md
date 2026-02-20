@@ -40,9 +40,10 @@ It demonstrates:
 - Swing (GUI)
 - JDBC (UCanAccess)
 - Git & GitHub
+=======
 # JAVA EXAM SUBMISSION
 **Victoria University – Faculty of Science and Technology**  
-**Course Unit:** Oriented Object Programming  
+**Course Unit:** Java Programming  
 **Student Name:** Nalwoga Madrine 
 **Registration Number:** VU-BIT-2503-2460-EVE
 
