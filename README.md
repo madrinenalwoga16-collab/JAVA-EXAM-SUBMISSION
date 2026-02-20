@@ -8,19 +8,16 @@
 ## Project Overview
 This repository contains my **Java Programming Exam Submission** developed using **VS Code**.  
 It demonstrates:
-
 - Object-Oriented Programming (OOP)
 - Exception Handling & File I/O
 - Immutable Classes
 - Functional Programming concepts
 - GUI Development (Swing)
 - Database Connectivity (Access + JDBC)
-- Version Control with Git/GitHub
+- Version Control with Git/GitHub 
 
 ## Project Structure
-
 ## Questions Covered
-
 ### 1 VUCourses.java
 - Console-based Module Code lookup
 - Switch statements and input validation
@@ -43,10 +40,9 @@ It demonstrates:
 - Swing (GUI)
 - JDBC (UCanAccess)
 - Git & GitHub
-=======
 # JAVA EXAM SUBMISSION
 **Victoria University – Faculty of Science and Technology**  
-**Course Unit:** Java Programming  
+**Course Unit:** Oriented Object Programming  
 **Student Name:** Nalwoga Madrine 
 **Registration Number:** VU-BIT-2503-2460-EVE
 
