@@ -61,6 +61,6 @@ public class ExhibitionApp {
         exit.addActionListener(e -> System.exit(0));
         frame.setVisible(true);
     }
-}
+} 
     
 
